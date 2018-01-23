@@ -13,6 +13,8 @@ namespace GETGOOD_Console_app
             //testing a comment
 
             int var = 0;
+
+            string boomboom = "bam";
         }
     }
 }
